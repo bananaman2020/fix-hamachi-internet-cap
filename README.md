@@ -31,8 +31,8 @@ Querying active state...
 
 TCP Global Parameters
 ----------------------------------------------
-Receive-Side Scaling State          : enabled
-Receive Window Auto-Tuning Level    : normal
+Receive-Side Scaling State          : disabled
+Receive Window Auto-Tuning Level    : disabled
 Add-On Congestion Control Provider  : default
 ECN Capability                      : disabled
 RFC 1323 Timestamps                 : allowed
