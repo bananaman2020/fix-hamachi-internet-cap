@@ -1,3 +1,4 @@
+@echo off
 echo Listing current netsh settings
 
 netsh interface tcp show global
